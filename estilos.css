@@ -82,7 +82,7 @@ html{
     justify-content: center;
     text-align: center;
     flex-direction: column;
-    height: 90vh;
+    height: 98vh;
     color: white;
     background-image: linear-gradient(
         0deg,
@@ -141,7 +141,7 @@ html{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("img/1.jpg");
+    ,url("img/chain.jpg");
 }
 
 .carta:nth-child(2){
@@ -254,7 +254,7 @@ footer .container{
         background-image: url("img/3.jpe");
         background-size: cover;
         background-position: center center;
-        height: 500px;
+        height: 540px;
         width: 400px;
     }
 
@@ -290,7 +290,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("img/1.jpg");
+        ,url("img/3.jpe");
     }
     
     .carta:nth-child(2){
@@ -299,7 +299,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("img/3.jpg");
+        ,url("img/kira.jpg");
     }
     
     .carta:nth-child(3){
